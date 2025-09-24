@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Jack Rappel
-- **CCID:** jrappel
+- **Full Name:** Matthew Chang
+- **CCID:** jcchang1
 
 ## References and Resources
 
