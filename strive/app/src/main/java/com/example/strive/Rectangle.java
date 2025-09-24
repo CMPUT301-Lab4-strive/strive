@@ -1,1 +1,6 @@
-public class Rectangle extends Shape {}
+package com.example.strive;
+
+public class Rectangle extends Shape {
+    public Rectangle() {
+    }
+}
