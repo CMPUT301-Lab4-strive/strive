@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Jack Rappel
-- **CCID:** jrappel
+- **Full Name:** Tyson Luu
+- **CCID:** tyson3
 
 ## References and Resources
 
