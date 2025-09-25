@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Matthew Chang
-- **CCID:** jcchang1
+- **Full Name:** Nikhil Joshi
+- **CCID:** njoshi4
 
 ## References and Resources
 
