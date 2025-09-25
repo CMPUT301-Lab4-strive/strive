@@ -1,8 +1,8 @@
 package com.example.strive;
 
 public abstract class Shape {
-    public int x;
-    public int y;
-    public String colour = "deep blue";
+    protected int x;
+    protected int y;
+    String color = "white";
 
 }
