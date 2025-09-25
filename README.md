@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Nikhil Joshi
-- **CCID:** njoshi4
+- **Full Name:** Zhexuan, DAI
+- **CCID:** zhexuan3
 
 ## References and Resources
 
