@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Jack Rappel
-- **CCID:** jrappel
+- **Full Name:** Willam Yang Yang
+- **CCID:** wyangyan
 
 ## References and Resources
 
