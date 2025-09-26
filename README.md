@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Jack Rappel
-- **CCID:** jrappel
+- **Full Name:** Zhexuan, DAI
+- **CCID:** zhexuan3
 
 ## References and Resources
 
