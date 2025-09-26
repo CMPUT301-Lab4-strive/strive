@@ -3,6 +3,6 @@ package com.example.strive;
 public abstract class Shape {
     protected int x;
     protected int y;
-    String color = "light green";
+    String color = "light_green";
 
 }
