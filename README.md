@@ -2,13 +2,8 @@
 
 ## Student Details
 
-<<<<<<< HEAD
-- **Full Name:** Zhexuan, DAI
-- **CCID:** zhexuan3
-=======
 - **Full Name:** Tyson Luu
 - **CCID:** tyson3
->>>>>>> e770461fba02d4b069da742cd2980a35d9fc38ce
 
 ## References and Resources
 
