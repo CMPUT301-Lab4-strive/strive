@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Zhexuan, DAI
-- **CCID:** zhexuan3
+- **Full Name:** Matthew Chang
+- **CCID:** jcchang1
 
 ## References and Resources
 
